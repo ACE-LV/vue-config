@@ -7,7 +7,7 @@
 export default {
   data(){
     return{
-        b:1
+        a:1
     }
   },
   mounted() {
